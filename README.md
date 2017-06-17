@@ -17,6 +17,7 @@ One problem, one way to solve it.
   * [Modal / Alert](http://izimodal.marcelodolce.com/) *izimodal.marcelodolce.com*
   * [Toast / Notification](http://izitoast.marcelodolce.com/) *izitoast.marcelodolce.com*
   * [Photo LightBox](http://photoswipe.com/) *photoswipe.com*
+  * [Photo Zoom](https://henrygd.me/bigpicture/) *henrygd.me/bigpicture*
 * Date & Time
   * [Manipulation](http://momentjs.com/) *momentjs.com*
   * [Picker](http://eonasdan.github.io/bootstrap-datetimepicker/) *eonasdan.github.io/bootstrap-datetimepicker*
@@ -29,3 +30,5 @@ One problem, one way to solve it.
   * [Animate on Scroll](https://github.com/michalsnik/aos) *github.com/michalsnik/aos*
   * [Hover Effects](http://ianlunn.github.io/Hover/) *ianlunn.github.io/Hover*
   * [Engine](http://anime-js.com/) *anime-js.com*
+* Vue.JS
+  * [Lightweight UI components for Vue.js based on Bulma](https://buefy.github.io/#/) *buefy.github.io*
