@@ -26,6 +26,7 @@ One problem, one way to solve it.
   * [CSS arrows](http://www.cssarrowplease.com/) *cssarrowplease.com*
   * [CSS gradients](http://www.colorzilla.com/gradient-editor/) *colorzilla.com/gradient-editor*
   * [Loaders / Spinners](http://projects.lukehaas.me/css-loaders/) *projects.lukehaas.me/css-loaders*
+  * [Cropping Images in CSS ](https://alligator.io/css/cropping-images-object-fit/)
 * Animations
   * [Animate on Scroll](https://github.com/michalsnik/aos) *github.com/michalsnik/aos*
   * [Hover Effects](http://ianlunn.github.io/Hover/) *ianlunn.github.io/Hover*
